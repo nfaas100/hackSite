@@ -1,9 +1,13 @@
 img {
   width: 200px;
   height: 200px;
-  
 }
 
-p{
-  color: rgba(56, 47, 9, 0.6);
+background {
+  color: LemonChifon;
+}
+
+p {
+  color: blue;
+  text-color: yellow;
 }
