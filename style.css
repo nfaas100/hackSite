@@ -8,8 +8,8 @@ body {
 }
 
 p {
-  color: blue;
-  text-color: yellow;
+  border-style: solid;
+  border-color: red;
 }
 
 #banner {
