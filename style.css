@@ -11,3 +11,7 @@ p {
   color: blue;
   text-color: yellow;
 }
+
+#banner {
+  font-size: 50px;
+}
